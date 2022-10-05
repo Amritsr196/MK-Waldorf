@@ -1,4 +1,4 @@
-**Privacy Policy**
+# Privacy Policy
 
 Amrit-SR built the MK-Waldorf app as an Open Source app. This SERVICE is provided by Amrit-SR at no cost and is intended for use as is.
 
