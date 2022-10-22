@@ -24,7 +24,7 @@ class Manager(ScreenManager):
 class Menu(Screen):
     pass
 
-class SelectionScreen(Screen):  # Look up Eriks part 6 github, he should have it fixed
+class SelectionScreen(Screen):  
     try:
         count = pickle.load(open("wins.dat", "rb"))
     except:
